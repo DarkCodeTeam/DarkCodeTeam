@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mehrshad
-- 👀 I’m interested in Front-end and back-end developer
+- 👀 I’m interested in back-end developer
 - 🌱 I’m currently learning php , Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DarkCodeTeame.ir@gmail.com
