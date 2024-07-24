@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #2c3e50;
-            color: #ecf0f1;
+            background-color: #f0f4f8;
+            color: #333;
             margin: 0;
             padding: 0;
         }
@@ -16,53 +16,68 @@
             width: 80%;
             margin: 0 auto;
             padding: 20px;
-            background-color: #34495e;
-            border-radius: 15px;
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
         }
         .header {
             text-align: center;
-            padding: 20px;
+            margin-bottom: 20px;
         }
         .header img {
-            border-radius: 10px;
             width: 100%;
             max-width: 600px;
-            height: auto;
+            border-radius: 10px;
         }
         .section {
-            padding: 20px 0;
+            margin-bottom: 30px;
         }
         .section h2 {
-            border-bottom: 2px solid #ecf0f1;
+            border-bottom: 2px solid #007bff;
             padding-bottom: 10px;
             margin-bottom: 20px;
+            color: #007bff;
+            text-align: center;
+            font-size: 24px;
         }
         .section ul {
             list-style: none;
             padding: 0;
         }
         .section ul li {
-            padding: 5px 0;
+            padding: 10px 0;
         }
         .skills img {
             margin: 5px;
+            transition: transform 0.3s;
+        }
+        .skills img:hover {
+            transform: scale(1.1);
         }
         .contact img {
-            width: 200px;
+            max-width: 150px;
         }
         .footer {
             text-align: center;
             padding: 20px;
         }
         .footer img {
-            border-radius: 10px;
             width: 100%;
-            max-width: 300px;
-            height: auto;
+            max-width: 250px;
+            border-radius: 10px;
         }
         .footer p {
-            color: #ecf0f1;
+            color: #007bff;
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -135,15 +150,6 @@
                 <li>Deploying and managing applications on AWS.</li>
                 <li>Developing applications with Spring Boot for microservices architecture.</li>
             </ul>
-        </div>
-
-        <div class="section contact">
-            <h2>📞 Contact</h2>
-            <p align="center">
-                <a href="mailto:DarkCodeTeame.ir@gmail.com">
-                    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-                </a>
-            </p>
         </div>
 
         <div class="footer">
