@@ -29,8 +29,16 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+
+
 ## 👨‍💻 About Me
-I am a dedicated and passionate backend developer with extensive experience in building robust and scalable applications using PHP, JavaScript, TypeScript, Node.js, and Laravel. My expertise lies in creating efficient and maintainable code, designing RESTful APIs and GraphQL endpoints, and implementing complex database schemas. I thrive in collaborative environments and am always eager to learn and adapt to new technologies.
+
+As a passionate and results-driven Backend Developer, I thrive on crafting high-performance and scalable backend solutions. With a strong foundation in PHP, JavaScript, and TypeScript, I specialize in building robust applications using cutting-edge technologies like Laravel, Node.js, and NestJS.
+
+My approach to backend development is centered around creating efficient and maintainable code. I excel at designing and implementing RESTful APIs and GraphQL endpoints, optimizing database structures, and applying best practices in OOP and MVC. My experience extends to managing complex projects and collaborating with cross-functional teams to deliver seamless user experiences.
+
+I am continuously exploring new technologies and methodologies to stay ahead in this ever-evolving field. My commitment to quality, innovation, and teamwork drives me to tackle challenges with a proactive mindset and a focus on achieving exceptional results.
+
 
 ## 💼 Experience
 **DarkCode**  
