@@ -1,6 +1,6 @@
 # Mehrshad - Backend Developer
 
-<p align="center">
+<p align="center" style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="600" height="300">
 </p>
 
