@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Linux%20LPIC--2-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="Linux LPIC-2">
+  <img src="https://img.shields.io/badge/WebSockets-009688?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Version Control">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </p>
 
 ## 👨‍💻 About Me
@@ -49,6 +56,11 @@ I am a dedicated and passionate backend developer with extensive experience in b
     <li>Handling database design and optimization using MySQL, MongoDB, and Redis.</li>
     <li>Applying OOP and MVC principles to ensure clean and maintainable code.</li>
     <li>Conducting code reviews and contributing to team knowledge sharing.</li>
+    <li>Implementing WebSockets for real-time communication.</li>
+    <li>Using version control systems like Git, GitHub, and GitLab for efficient project management.</li>
+    <li>Securing applications using JWT for authentication.</li>
+    <li>Deploying and managing applications on AWS.</li>
+    <li>Developing applications with Spring Boot for microservices architecture.</li>
   </ul>
 </p>
 
