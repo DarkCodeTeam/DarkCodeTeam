@@ -20,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux LPIC-1](https://img.shields.io/badge/Linux%20LPIC--2-1793D1?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux LPIC-2](https://img.shields.io/badge/Linux%20LPIC--2-1793D1?style=for-the-badge&logo=linux&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-009688?style=for-the-badge&logo=websocket&logoColor=white)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
