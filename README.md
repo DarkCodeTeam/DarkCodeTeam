@@ -1,68 +1,137 @@
-# Mehrshad - Backend Developer
+# Mehrshad Rahmani
 
-![Coding Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+CEO at Dark Code Team
 
-## 📧 Contact Information
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DarkCodeTeame.ir@gmail.com)
-
-## 🛠️ Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-009688?style=for-the-badge&logo=code&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=structure&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux LPIC-1](https://img.shields.io/badge/Linux%20LPIC--2-1793D1?style=for-the-badge&logo=linux&logoColor=white)
-![Linux LPIC-2](https://img.shields.io/badge/Linux%20LPIC--2-1793D1?style=for-the-badge&logo=linux&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-009688?style=for-the-badge&logo=websocket&logoColor=white)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-
-
-## 👨‍💻 About Me
-
-As a passionate and results-driven Backend Developer, I thrive on crafting high-performance and scalable backend solutions. With a strong foundation in PHP, JavaScript, and TypeScript, I specialize in building robust applications using cutting-edge technologies like Laravel, Node.js, and NestJS.
-
-My approach to backend development is centered around creating efficient and maintainable code. I excel at designing and implementing RESTful APIs and GraphQL endpoints, optimizing database structures, and applying best practices in OOP and MVC. My experience extends to managing complex projects and collaborating with cross-functional teams to deliver seamless user experiences.
-
-I am continuously exploring new technologies and methodologies to stay ahead in this ever-evolving field. My commitment to quality, innovation, and teamwork drives me to tackle challenges with a proactive mindset and a focus on achieving exceptional results.
-
-
-## 💼 Experience
-**DarkCode**  
-**Role:** CEO & Backend Developer  
-**Duration:** 2021 - Present  
-
-- Leading the development and strategy of web applications using Laravel, Node.js, and NestJS.
-- Designing and implementing RESTful APIs and GraphQL endpoints for various projects.
-- Managing a team of developers, overseeing project timelines, and ensuring quality delivery.
-- Collaborating with frontend developers and designers to create seamless user experiences.
-- Handling database design and optimization using MySQL, MongoDB, and Redis.
-- Applying OOP and MVC principles to ensure clean and maintainable code.
-- Conducting code reviews and contributing to team knowledge sharing.
-- Implementing WebSockets for real-time communication.
-- Using version control systems like Git, GitHub, and GitLab for efficient project management.
-- Securing applications using JWT for authentication.
-- Deploying and managing applications on AWS.
-- Developing applications with Spring Boot for microservices architecture.
-
-## 📞 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DarkCodeTeame.ir@gmail.com)
+- Email: [DarkCodeTeam.ir@gmail.com](mailto:DarkCodeTeam.ir@gmail.com)
+- Website: [www.darkcodeteam.ir](http://www.darkcodeteam.ir)
+- LinkedIn: [linkedin.com/in/mehrshadrahmani](https://www.linkedin.com/in/mehrshadrahmani)
+- GitHub: [github.com/darkcodeteam](https://github.com/darkcodeteam)
 
 ---
 
-![Thank You](https://media.giphy.com/media/l4Ep6E4tShl8KAyu4/giphy.gif)  
-*Thank you for visiting my GitHub profile*
+## Welcome to My Resume
+
+<!-- HTML embedded in Markdown -->
+<div style="font-family: monospace; font-size: 24px; color: #0f62fe;">
+  <span id="typing"></span>
+</div>
+
+<script>
+  const text = "Mehrshad backend developer";
+  let index = 0;
+  let forward = true;
+
+  function type() {
+    if (forward) {
+      document.getElementById('typing').textContent += text[index++];
+      if (index === text.length) forward = false;
+    } else {
+      document.getElementById('typing').textContent = text.slice(0, --index);
+      if (index === 0) forward = true;
+    }
+  }
+  setInterval(type, 150);
+</script>
+
+---
+
+## About Me
+
+I am the CEO of Dark Code Team, a forward-thinking software development team established in 2021. We specialize in building advanced software solutions with a focus on innovation and cutting-edge technologies.
+
+---
+
+## Skills
+
+### Programming Languages & Frameworks
+
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![Laravel](https://img.icons8.com/color/48/000000/laravel.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express.js](https://img.icons8.com/color/48/000000/express.png)
+![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Redis](https://img.icons8.com/color/48/000000/redis.png)
+![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
+![WebSocket](https://img.icons8.com/color/48/000000/websocket.png)
+
+### Tools & Platforms
+
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)
+![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![JWT](https://img.icons8.com/color/48/000000/jwt.png)
+
+---
+
+## Experience
+
+### Dark Code Team (2021 - Present)
+CEO & Lead Developer
+- Founded and led a high-performing software development team.
+- Architected and developed scalable applications using modern technologies.
+- Managed client relationships and directed project lifecycles.
+
+---
+
+## Projects
+
+### 1. Dark Messenger (Under Development)
+
+A sophisticated messaging platform designed for secure, real-time communication with a wide range of features for personal and business use.
+
+#### Key Features:
+- Development Tools: Integrated development environment (IDE) for creating custom extensions and bots.
+- Bot Creation: Users can build and deploy custom bots using built-in tools.
+- Premium Accounts: Access to exclusive features such as enhanced encryption, custom themes, and priority support.
+- Business Accounts: Tools for businesses including analytics, customer engagement features, and multiple user management.
+- AI Integration: Intelligent features powered by AI, such as automated responses, smart suggestions, and content moderation.
+
+#### Technologies:
+- Backend: Node.js, WebSocket, Redis, MongoDB
+- Frontend: React Native, TypeScript
+- AI/ML: TensorFlow, AWS AI Services
+
+- ![Dark Messenger](https://via.placeholder.com/400x200.png?text=Dark+Messenger+Coming+Soon)
+
+### 2. Echo Voice Chat (Under Development)
+
+An advanced voice communication system tailored for crystal-clear audio and low-latency performance. Ideal for both casual conversations and professional team collaboration.#### Key Features:
+- High-Quality Audio: Utilizes WebRTC for minimal latency and superior sound quality.
+- Group Voice Chats: Easily create and manage group voice chat rooms.
+- Custom Integrations: APIs available for integrating Echo Voice Chat into third-party applications.
+- AI Features: Noise suppression, speech recognition, and real-time translation powered by AI.
+
+#### Technologies:
+- Backend: Spring Boot, WebRTC, AWS, GraphQL
+- Frontend: React, TypeScript
+- AI/ML: PyTorch, AWS AI Services
+
+- ![Echo Voice Chat](https://via.placeholder.com/400x200.png?text=Echo+Voice+Chat+Coming+Soon)
+
+---
+
+## 3D Skills Charts
+
+### 1. Backend & API Skills
+
+![Backend Skills Chart](https://quickchart.io/chart?c={type:'bar3d',data:{labels:['Node.js','PHP','Laravel','GraphQL','Spring Boot'],datasets:[{label:'Proficiency',data:[90,85,80,75,70]}]},options:{title:{display:true,text:'Backend & API Skills'}}})
+
+### 2. Frontend & Full Stack Skills
+
+![Frontend Skills Chart](https://quickchart.io/chart?c={type:'bar3d',data:{labels:['React','TypeScript','WebSocket','Redis','MongoDB'],datasets:[{label:'Proficiency',data:[80,85,75,70,80]}]},options:{title:{display:true,text:'Frontend & Full Stack Skills'}}})
+
+### 3. AI & Machine Learning
+
+![AI Skills Chart](https://quickchart.io/chart?c={type:'bar3d',data:{labels:['TensorFlow','PyTorch','AWS AI'],datasets:[{label:'Proficiency',data:[85,80,75]}]},options:{title:{display:true,text:'AI & Machine Learning Skills'}}})
+
+---
+
+## Contact
+
+For further information, please visit my [LinkedIn profile](https://www.linkedin.com/in/mehrshadrahmani) or send me an [email](mailto:DarkCodeTeam.ir@gmail.com).
