@@ -14,9 +14,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
------------------
-backend developer
------------------
+
+**backend developer**
+
 
 As a passionate and results-driven Backend Developer, I thrive on crafting high-performance and scalable backend solutions. With a strong foundation in PHP, JavaScript, and TypeScript, I specialize in building robust applications using cutting-edge technologies like Laravel, Node.js, and NestJS. My approach to backend development is centered around creating efficient and maintainable code. I excel at designing and implementing RESTful APIs and GraphQL endpoints, optimizing database structures, and applying best practices in OOP and MVC. My experience extends to managing complex projects and collaborating with cross-functional teams to deliver seamless user experiences. I am continuously exploring new technologies and methodologies to stay ahead in this ever-evolving field. My commitment to quality, innovation, and teamwork drives me to tackle challenges with a proactive mindset and a focus on achieving exceptional results.
 
@@ -36,7 +36,7 @@ As a passionate and results-driven Backend Developer, I thrive on crafting high-
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
  </picture>
 </a>
- <a href="https://www.x.com/ءثاقيشقن" target="_blank" rel="noreferrer">
+ <a href="https://www.x.com/" target="_blank" rel="noreferrer">
  <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
